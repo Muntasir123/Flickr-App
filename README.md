@@ -2,14 +2,14 @@
 An Android Application Replica of Flickr
 
 
-Features in this version
+**Features in this version**
 
 - Uploading capability for users (This is rather slow, needs to be fixed later)
 - Connection to a SQL server which stores information in the backend
 - Each user has its own distinct profile
 - This 'Flickr' is made more like a facebook page, it has distinct home-pages based on your friends
 
-Some bugs
+**Some bugs**
 
 - The tree search between friends and related friends isn't too great. (I'm using some variation of merge sort right now), probably should 
 subscribe to the quick-sort route.
